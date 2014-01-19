@@ -1,0 +1,6 @@
+/* ======== admin: hide customize link ========= */
+
+.hide-if-no-customize {
+  display: none;
+}
+
